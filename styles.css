@@ -116,6 +116,10 @@ header {
     color: white;
     font-weight: 700;
   }
+
+  button:hover {
+    cursor: pointer;
+  }
 }
 
 .sidebar {
